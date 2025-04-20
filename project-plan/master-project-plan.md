@@ -3,7 +3,8 @@
 - [X] Analyze and Understand the Requirements
 [requirements.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/project-plan/requirements.md)
 ## Design Data Architecture
-- [ ] Choose Data Management Approach
+- [X] Choose Data Management Approach]
+[data-management-approach.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/project-plan/data-management-approach)
 - [ ] Design the Layers
 - [ ] Draw the Data Architecture (draw.io)
 ## Project Initialization
