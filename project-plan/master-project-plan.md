@@ -9,7 +9,7 @@
 - [ ] Draw the Data Architecture (draw.io)
 ## Project Initialization
 - [X] Create Detailed Project Tasks (below you can find the project tasks)
-- [ ] Define Project Naming Conventions
+- [X] Define Project Naming Conventions [naming-conventions.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/naming-conventions.md)
 - [ ] Create Database and Schemas
 ## Build the Bronze Layer
 - [ ] Analyzing: Source System
