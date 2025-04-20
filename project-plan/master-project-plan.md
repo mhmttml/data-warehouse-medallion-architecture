@@ -1,6 +1,7 @@
 # Master Project Plan
 ## Requirement Analysis
-- [ ] Analyze and Understand the Requirements
+- [X] Analyze and Understand the Requirements
+[requirements.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/project-plan/requirements.md)
 ## Design Data Architecture
 - [ ] Choose Data Management Approach
 - [ ] Design the Layers
