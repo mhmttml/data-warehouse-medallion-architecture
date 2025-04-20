@@ -8,7 +8,7 @@
 - [X] Design the Layers [layer-design.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/project-plan/layer-design.md)
 - [ ] Draw the Data Architecture (draw.io)
 ## Project Initialization
-- [ ] Create Detailed Project Tasks
+- [X] Create Detailed Project Tasks (below you can find the project tasks)
 - [ ] Define Project Naming Conventions
 - [ ] Create Database and Schemas
 ## Build the Bronze Layer
