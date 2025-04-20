@@ -6,7 +6,7 @@
 - [X] Choose Data Management Approach]
 [data-management-approach.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/project-plan/data-management-approach)
 - [X] Design the Layers [layer-design.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/project-plan/layer-design.md)
-- [ ] Draw the Data Architecture (draw.io)
+- [X] Draw the Data Architecture (draw.io) [data-architecture.png](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/DataArchitecture.png)
 ## Project Initialization
 - [X] Create Detailed Project Tasks (below you can find the project tasks)
 - [X] Define Project Naming Conventions [naming-conventions.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/naming-conventions.md)
