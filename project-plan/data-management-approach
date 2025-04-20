@@ -1,0 +1,13 @@
+# 🧠 Data Management Approach
+
+For this project, We’ve chosen the Data Warehouse approach to manage and organize data from ERP and CRM systems. A Data Warehouse provides a structured, reliable, and performance-optimized environment for analytics and reporting.
+
+To design the warehouse, we’ve implemented the Medallion Architecture, which organizes data into three layers:
+
+- Bronze – Raw data ingestion
+
+- Silver – Cleaned and transformed data
+
+- Gold – Business-level, aggregated data for analytics
+
+- This layered approach ensures data quality, scalability, and modularity in the ETL pipeline.
