@@ -10,7 +10,7 @@
 ## Project Initialization
 - [X] Create Detailed Project Tasks (below you can find the project tasks)
 - [X] Define Project Naming Conventions [naming-conventions.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/naming-conventions.md)
-- [ ] Create Database and Schemas
+- [X] Create Database and Schemas [init_database.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/init_database.sql)
 ## Build the Bronze Layer
 - [ ] Analyzing: Source System
 - [ ] Coding: Data Ingestion
