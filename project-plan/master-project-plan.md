@@ -12,7 +12,7 @@
 - [X] Define Project Naming Conventions [naming-conventions.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/naming-conventions.md)
 - [X] Create Database and Schemas [init_database.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/init_database.sql)
 ## Build the Bronze Layer
-- [ ] Analyzing: Source System
+- [X] Analyzing: Source System [source_systems.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/source_systems.md)
 - [ ] Coding: Data Ingestion
 - [ ] Validating: Data Completeness & Schema Checks
 - [ ] Document: Draw Data Flow (draw.io)
