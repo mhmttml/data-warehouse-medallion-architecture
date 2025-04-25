@@ -44,8 +44,8 @@ WITH (
 );
 
 
-BULK INSERT INTO TABLE erp_cust_az12 
-FROM '~/datasets/cust_az12.csv'
+BULK INSERT INTO TABLE erp_px_cat_g1v2 
+FROM '~/datasets/px_cat_g1v2.csv'
 WITH (
 	FIRSTROW = 2,
 	FIELDTERMINATOR = ',',
