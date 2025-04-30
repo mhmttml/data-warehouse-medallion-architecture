@@ -14,7 +14,7 @@
 ## Build the Bronze Layer
 - [X] Analyzing: Source System [source_systems.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/source_systems.md)
 - [X] Coding: Data Ingestion [ddl_bronze.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/bronze/ddl_bronze.sql)
-- [ ] Validating: Data Completeness & Schema Checks
+- [X] Validating: Data Completeness & Schema Checks [proc_load_bronze.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/bronze/proc_load_bronze.sql)
 - [ ] Document: Draw Data Flow (draw.io)
 ## Build the Silver Layer
 - [ ] Analyzing: Explore and Understand the Data
