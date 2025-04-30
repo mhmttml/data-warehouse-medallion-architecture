@@ -13,7 +13,7 @@
 - [X] Create Database and Schemas [init_database.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/init_database.sql)
 ## Build the Bronze Layer
 - [X] Analyzing: Source System [source_systems.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/source_systems.md)
-- [ ] Coding: Data Ingestion
+- [X] Coding: Data Ingestion [ddl_bronze.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/bronze/ddl_bronze.sql)
 - [ ] Validating: Data Completeness & Schema Checks
 - [ ] Document: Draw Data Flow (draw.io)
 ## Build the Silver Layer
