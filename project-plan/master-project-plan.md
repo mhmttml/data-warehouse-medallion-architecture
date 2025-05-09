@@ -18,7 +18,7 @@
 - [X] Document: Draw Data Flow (draw.io) [DataFlowBronzeLayer.png](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/DataFlowBronzeLayer.png)
 ## Build the Silver Layer
 - [X] Analyzing: Explore and Understand the Data
-- [ ] Document: Draw Data Integration
+- [x] Document: Draw Data Integration [data_integration.png](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/data_integration.jpg)
 - [ ] Coding: Data Cleansing
 - [ ] Validating: Data Correctness Checks
 - [ ] Document: Extend Data Flow (draw.io)
