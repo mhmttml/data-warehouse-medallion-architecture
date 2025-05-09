@@ -17,7 +17,7 @@
 - [X] Validating: Data Completeness & Schema Checks [proc_load_bronze.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/bronze/proc_load_bronze.sql)
 - [X] Document: Draw Data Flow (draw.io) [DataFlowBronzeLayer.png](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/DataFlowBronzeLayer.png)
 ## Build the Silver Layer
-- [ ] Analyzing: Explore and Understand the Data
+- [X] Analyzing: Explore and Understand the Data
 - [ ] Document: Draw Data Integration
 - [ ] Coding: Data Cleansing
 - [ ] Validating: Data Correctness Checks
