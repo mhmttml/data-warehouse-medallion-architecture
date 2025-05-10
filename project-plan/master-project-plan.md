@@ -24,7 +24,7 @@
 - [X] Document: Extend Data Flow (draw.io) [DataFlowSilverLayer.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/DataFlowSilverLayer.jpg)
 ## Build the Gold Layer
 - [X] Analyzing: Explore Business Objects [business_objects.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/business_objects.jpg)
-- [ ] Coding: Data Integration
+- [X] Coding: Data Integration [ddl_gold.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/gold/ddl_gold.sql)
 - [ ] Validating: Data Integration Checks
 - [ ] Document: Draw Data Model of Star Schema
 - [ ] Document: Create Data Catalog
