@@ -26,6 +26,6 @@
 - [X] Analyzing: Explore Business Objects [business_objects.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/business_objects.jpg)
 - [X] Coding: Data Integration [ddl_gold.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/gold/ddl_gold.sql)
 - [X] Validating: Data Integration Checks [quality_checks_gold.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/tests/gold/quality_checks_gold.sql)
-- [ ] Document: Draw Data Model of Star Schema
+- [X] Document: Draw Data Model of Star Schema [data_model.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/data_model.jpg)
 - [ ] Document: Create Data Catalog
 - [ ] Document: Extend Data Flow (draw.io)
