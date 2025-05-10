@@ -21,7 +21,7 @@
 - [X] Document: Draw Data Integration [data_integration.png](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/data_integration.jpg)
 - [X] Coding: Data Cleansing [proc_load_silver.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/scripts/silver/proc_load_silver.sql)
 - [X] Validating: Data Correctness Checks [quality_checks_silver.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/tests/silver/quality_checks_silver.sql)
-- [ ] Document: Extend Data Flow (draw.io)
+- [X] Document: Extend Data Flow (draw.io) [DataFlowSilverLayer.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/DataFlowSilverLayer.jpg)
 ## Build the Gold Layer
 - [ ] Analyzing: Explore Business Objects
 - [ ] Coding: Data Integration
