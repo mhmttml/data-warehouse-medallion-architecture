@@ -28,4 +28,4 @@
 - [X] Validating: Data Integration Checks [quality_checks_gold.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/tests/gold/quality_checks_gold.sql)
 - [X] Document: Draw Data Model of Star Schema [data_model.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/data_model.jpg)
 - [X] Document: Create Data Catalog [data.catalog.md](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/data.catalog.md)
-- [ ] Document: Extend Data Flow (draw.io)
+- [X] Document: Extend Data Flow (draw.io) [DataFlowGoldLayer.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/DataFlowGoldLayer.jpg)
