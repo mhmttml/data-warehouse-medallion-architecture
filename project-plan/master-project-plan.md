@@ -23,7 +23,7 @@
 - [X] Validating: Data Correctness Checks [quality_checks_silver.sql](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/tests/silver/quality_checks_silver.sql)
 - [X] Document: Extend Data Flow (draw.io) [DataFlowSilverLayer.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/DataFlowSilverLayer.jpg)
 ## Build the Gold Layer
-- [ ] Analyzing: Explore Business Objects
+- [X] Analyzing: Explore Business Objects [business_objects.jpg](https://github.com/mhmttml/sql-data-warehouse-medallion-architecture/blob/main/docs/business_objects.jpg)
 - [ ] Coding: Data Integration
 - [ ] Validating: Data Integration Checks
 - [ ] Document: Draw Data Model of Star Schema
