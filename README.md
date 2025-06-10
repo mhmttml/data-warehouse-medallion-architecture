@@ -83,7 +83,7 @@ This project was developed collaboratively by:
 * [Burak Gizlice](https://github.com/burakgizlice)
 
   Together, we:
-* Designed the system following modern data architecture principles
-* Applied SQL best practices across all ETL layers
-* Maintained a clean, modular, and reproducible folder structure
-* Documented every layer and design decision
+- Designed the system following modern data architecture principles
+- Applied SQL best practices across all ETL layers
+- Maintained a clean, modular, and reproducible folder structure
+- Documented every layer and design decision
