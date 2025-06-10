@@ -81,7 +81,8 @@ sql-data-warehouse-medallion-architecture/
 This project was developed collaboratively by:
 * [Mehmet Temel](https://github.com/mhmttml)
 * [Burak Gizlice](https://github.com/burakgizlice)
-Together, we:
+
+  Together, we:
 * Designed the system following modern data architecture principles
 * Applied SQL best practices across all ETL layers
 * Maintained a clean, modular, and reproducible folder structure
